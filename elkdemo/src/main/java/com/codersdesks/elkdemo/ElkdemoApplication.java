@@ -1,13 +1,13 @@
-package com.codersdesks.sp;
+package com.codersdesks.elkdemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootPrepApplication {
+public class ElkdemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootPrepApplication.class, args);
+		SpringApplication.run(ElkdemoApplication.class, args);
 	}
 
 }

@@ -1,10 +1,10 @@
-package com.codersdesks.sp;
+package com.codersdesks.elkdemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringbootPrepApplicationTests {
+class ElkdemoApplicationTests {
 
 	@Test
 	void contextLoads() {
